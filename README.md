@@ -24,7 +24,6 @@ Egypt holds a wealth of historical and cultural sites that are significant to wo
 - **Entity Framework Core** – Used for efficient database management and operations.  
 - **ASP.NET Identity** – Provides authentication and authorization for secure user management.  
 - **RESTful APIs** – Enables smooth communication between frontend and backend services.  
-- **SignalR** – Supports real-time interactions within the user community feature.  
 - **Dependency Injection** – Enhances modularity and maintainability of the application.  
 - **Logging & Monitoring** – Uses Serilog and Application Insights for performance tracking.  
 
