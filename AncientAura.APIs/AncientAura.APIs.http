@@ -1,0 +1,6 @@
+@AncientAura.APIs_HostAddress = http://localhost:5064
+
+GET {{AncientAura.APIs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

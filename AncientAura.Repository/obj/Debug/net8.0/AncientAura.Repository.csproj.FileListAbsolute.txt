@@ -1,0 +1,15 @@
+D:\AncientAura\AncientAura\AncientAura.Repository\bin\Debug\net8.0\AncientAura.Repository.deps.json
+D:\AncientAura\AncientAura\AncientAura.Repository\bin\Debug\net8.0\AncientAura.Repository.dll
+D:\AncientAura\AncientAura\AncientAura.Repository\bin\Debug\net8.0\AncientAura.Repository.pdb
+D:\AncientAura\AncientAura\AncientAura.Repository\bin\Debug\net8.0\AncientAura.Core.dll
+D:\AncientAura\AncientAura\AncientAura.Repository\bin\Debug\net8.0\AncientAura.Core.pdb
+D:\AncientAura\AncientAura\AncientAura.Repository\obj\Debug\net8.0\AncientAura.Repository.csproj.AssemblyReference.cache
+D:\AncientAura\AncientAura\AncientAura.Repository\obj\Debug\net8.0\AncientAura.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\AncientAura\AncientAura\AncientAura.Repository\obj\Debug\net8.0\AncientAura.Repository.AssemblyInfoInputs.cache
+D:\AncientAura\AncientAura\AncientAura.Repository\obj\Debug\net8.0\AncientAura.Repository.AssemblyInfo.cs
+D:\AncientAura\AncientAura\AncientAura.Repository\obj\Debug\net8.0\AncientAura.Repository.csproj.CoreCompileInputs.cache
+D:\AncientAura\AncientAura\AncientAura.Repository\obj\Debug\net8.0\AncientA.ACBB017F.Up2Date
+D:\AncientAura\AncientAura\AncientAura.Repository\obj\Debug\net8.0\AncientAura.Repository.dll
+D:\AncientAura\AncientAura\AncientAura.Repository\obj\Debug\net8.0\refint\AncientAura.Repository.dll
+D:\AncientAura\AncientAura\AncientAura.Repository\obj\Debug\net8.0\AncientAura.Repository.pdb
+D:\AncientAura\AncientAura\AncientAura.Repository\obj\Debug\net8.0\ref\AncientAura.Repository.dll

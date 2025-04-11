@@ -1,0 +1,12 @@
+D:\AncientAura\AncientAura\AncientAura.Core\bin\Debug\net8.0\AncientAura.Core.deps.json
+D:\AncientAura\AncientAura\AncientAura.Core\bin\Debug\net8.0\AncientAura.Core.dll
+D:\AncientAura\AncientAura\AncientAura.Core\bin\Debug\net8.0\AncientAura.Core.pdb
+D:\AncientAura\AncientAura\AncientAura.Core\obj\Debug\net8.0\AncientAura.Core.csproj.AssemblyReference.cache
+D:\AncientAura\AncientAura\AncientAura.Core\obj\Debug\net8.0\AncientAura.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\AncientAura\AncientAura\AncientAura.Core\obj\Debug\net8.0\AncientAura.Core.AssemblyInfoInputs.cache
+D:\AncientAura\AncientAura\AncientAura.Core\obj\Debug\net8.0\AncientAura.Core.AssemblyInfo.cs
+D:\AncientAura\AncientAura\AncientAura.Core\obj\Debug\net8.0\AncientAura.Core.csproj.CoreCompileInputs.cache
+D:\AncientAura\AncientAura\AncientAura.Core\obj\Debug\net8.0\AncientAura.Core.dll
+D:\AncientAura\AncientAura\AncientAura.Core\obj\Debug\net8.0\refint\AncientAura.Core.dll
+D:\AncientAura\AncientAura\AncientAura.Core\obj\Debug\net8.0\AncientAura.Core.pdb
+D:\AncientAura\AncientAura\AncientAura.Core\obj\Debug\net8.0\ref\AncientAura.Core.dll

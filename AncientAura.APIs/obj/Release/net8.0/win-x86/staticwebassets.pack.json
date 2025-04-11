@@ -1,0 +1,633 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\Abu Simple\\Abu Simple Entry.jpg",
+      "PackagePath": "staticwebassets\\Images\\Abu Simple\\Abu Simple Entry.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\Abu Simple\\Abu Simple Inside.jpg",
+      "PackagePath": "staticwebassets\\Images\\Abu Simple\\Abu Simple Inside.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\Abu Simple\\Abu Simple Inside02.jpg",
+      "PackagePath": "staticwebassets\\Images\\Abu Simple\\Abu Simple Inside02.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\Abu Simple\\Abu Simple Inside03.jpg",
+      "PackagePath": "staticwebassets\\Images\\Abu Simple\\Abu Simple Inside03.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\Abu Simple\\Abu Simple InsideLeft.jpg",
+      "PackagePath": "staticwebassets\\Images\\Abu Simple\\Abu Simple InsideLeft.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\Abu Simple\\Abu Simple InsideLeft02.jpg",
+      "PackagePath": "staticwebassets\\Images\\Abu Simple\\Abu Simple InsideLeft02.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\Abu Simple\\Abu Simple Room.jpg",
+      "PackagePath": "staticwebassets\\Images\\Abu Simple\\Abu Simple Room.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\Abu Simple\\Street View 360.jpg",
+      "PackagePath": "staticwebassets\\Images\\Abu Simple\\Street View 360.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\AncientSiteImage\\AbuSimple2.jpg",
+      "PackagePath": "staticwebassets\\Images\\AncientSiteImage\\AbuSimple2.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\AncientSiteImage\\Djoser.jpg",
+      "PackagePath": "staticwebassets\\Images\\AncientSiteImage\\Djoser.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\AncientSiteImage\\Edfu.jpg",
+      "PackagePath": "staticwebassets\\Images\\AncientSiteImage\\Edfu.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\AncientSiteImage\\Hathor.jpg",
+      "PackagePath": "staticwebassets\\Images\\AncientSiteImage\\Hathor.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\AncientSiteImage\\Khafra.jpg",
+      "PackagePath": "staticwebassets\\Images\\AncientSiteImage\\Khafra.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\AncientSiteImage\\Khufu.jpg",
+      "PackagePath": "staticwebassets\\Images\\AncientSiteImage\\Khufu.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\AncientSiteImage\\MenkaureFull.jpg",
+      "PackagePath": "staticwebassets\\Images\\AncientSiteImage\\MenkaureFull.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\AncientSiteImage\\Nefertari.jpg",
+      "PackagePath": "staticwebassets\\Images\\AncientSiteImage\\Nefertari.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\AncientSiteImage\\TempleOfLuxor.jpg",
+      "PackagePath": "staticwebassets\\Images\\AncientSiteImage\\TempleOfLuxor.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\AncientSiteImage\\TempleOfRamsis3.JPG",
+      "PackagePath": "staticwebassets\\Images\\AncientSiteImage\\TempleOfRamsis3.JPG"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\AncientSiteImage\\djsor.jpg",
+      "PackagePath": "staticwebassets\\Images\\AncientSiteImage\\djsor.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\ArticlesImage\\'head cone mystery'.jpg",
+      "PackagePath": "staticwebassets\\Images\\ArticlesImage\\'head cone mystery'.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\ArticlesImage\\A practical guide to travel in Egypt.jpg",
+      "PackagePath": "staticwebassets\\Images\\ArticlesImage\\A practical guide to travel in Egypt.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\ArticlesImage\\Ancient Egyptians revered dogs.jpg",
+      "PackagePath": "staticwebassets\\Images\\ArticlesImage\\Ancient Egyptians revered dogs.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\ArticlesImage\\Do you have poor posture at work.jpg",
+      "PackagePath": "staticwebassets\\Images\\ArticlesImage\\Do you have poor posture at work.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\ArticlesImage\\Egyptians used papyrus.jpg",
+      "PackagePath": "staticwebassets\\Images\\ArticlesImage\\Egyptians used papyrus.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\ArticlesImage\\How to plan the ultimate adventure.jpg",
+      "PackagePath": "staticwebassets\\Images\\ArticlesImage\\How to plan the ultimate adventure.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\ArticlesImage\\Mummies.jpg",
+      "PackagePath": "staticwebassets\\Images\\ArticlesImage\\Mummies.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\ArticlesImage\\Packing Food.jpg",
+      "PackagePath": "staticwebassets\\Images\\ArticlesImage\\Packing Food.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\ArticlesImage\\See Inside This Newly Discovered Ancient Egyptian Cemetery.jpg",
+      "PackagePath": "staticwebassets\\Images\\ArticlesImage\\See Inside This Newly Discovered Ancient Egyptian Cemetery.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\ArticlesImage\\The Pyramids.jpg",
+      "PackagePath": "staticwebassets\\Images\\ArticlesImage\\The Pyramids.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\ArticlesImage\\The last missing tomb.jpg",
+      "PackagePath": "staticwebassets\\Images\\ArticlesImage\\The last missing tomb.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\ArticlesImage\\The queens of ancient Egypt say yes..jpg",
+      "PackagePath": "staticwebassets\\Images\\ArticlesImage\\The queens of ancient Egypt say yes..jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\ArticlesImage\\Tutankhamun's tomb.jpg",
+      "PackagePath": "staticwebassets\\Images\\ArticlesImage\\Tutankhamun's tomb.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\ArticlesImage\\ancient artifacts.jpg",
+      "PackagePath": "staticwebassets\\Images\\ArticlesImage\\ancient artifacts.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\ArticlesImage\\funeral home.jpg",
+      "PackagePath": "staticwebassets\\Images\\ArticlesImage\\funeral home.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\ArticlesImage\\greatest military leader.jpg",
+      "PackagePath": "staticwebassets\\Images\\ArticlesImage\\greatest military leader.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\ArticlesImage\\mummies discovered near much older pyramid.jpg",
+      "PackagePath": "staticwebassets\\Images\\ArticlesImage\\mummies discovered near much older pyramid.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\ArticlesImage\\mummified crocodile's last meal.jpg",
+      "PackagePath": "staticwebassets\\Images\\ArticlesImage\\mummified crocodile's last meal.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\ArticlesImage\\mummified millions of birds.jpg",
+      "PackagePath": "staticwebassets\\Images\\ArticlesImage\\mummified millions of birds.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\ArticlesImage\\who was Cleopatra.jpg",
+      "PackagePath": "staticwebassets\\Images\\ArticlesImage\\who was Cleopatra.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\BookImage\\AHistoryOfAncientEgypt.jpg",
+      "PackagePath": "staticwebassets\\Images\\BookImage\\AHistoryOfAncientEgypt.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\BookImage\\AHistoryofAncientEgypt..jpg",
+      "PackagePath": "staticwebassets\\Images\\BookImage\\AHistoryofAncientEgypt..jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\BookImage\\AHistoryofAncientEgypt03.jpg",
+      "PackagePath": "staticwebassets\\Images\\BookImage\\AHistoryofAncientEgypt03.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\BookImage\\Akhenaten.jpg",
+      "PackagePath": "staticwebassets\\Images\\BookImage\\Akhenaten.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\BookImage\\ArtInAgeOfPyramids.jpg",
+      "PackagePath": "staticwebassets\\Images\\BookImage\\ArtInAgeOfPyramids.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\BookImage\\Cleopatra'sDaughter.jpg",
+      "PackagePath": "staticwebassets\\Images\\BookImage\\Cleopatra'sDaughter.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\BookImage\\CleopatraALife.jpg",
+      "PackagePath": "staticwebassets\\Images\\BookImage\\CleopatraALife.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\BookImage\\CompleteGodsAndGoddessesOfAncientEgypt.jpg",
+      "PackagePath": "staticwebassets\\Images\\BookImage\\CompleteGodsAndGoddessesOfAncientEgypt.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\BookImage\\DailyKifeInAncientEgypt.jpg",
+      "PackagePath": "staticwebassets\\Images\\BookImage\\DailyKifeInAncientEgypt.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\BookImage\\DaughtersOfIsis.jpg",
+      "PackagePath": "staticwebassets\\Images\\BookImage\\DaughtersOfIsis.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\BookImage\\HandbookofEgyptianMythology.jpg",
+      "PackagePath": "staticwebassets\\Images\\BookImage\\HandbookofEgyptianMythology.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\BookImage\\HistoryOfAncientEgypt02.jpg",
+      "PackagePath": "staticwebassets\\Images\\BookImage\\HistoryOfAncientEgypt02.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\BookImage\\Nefertiti.jpg",
+      "PackagePath": "staticwebassets\\Images\\BookImage\\Nefertiti.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\BookImage\\TemplesTombsAndHieroglyphs.jpg",
+      "PackagePath": "staticwebassets\\Images\\BookImage\\TemplesTombsAndHieroglyphs.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\BookImage\\TheEgyptian.jpg",
+      "PackagePath": "staticwebassets\\Images\\BookImage\\TheEgyptian.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\BookImage\\TheEgyptianBookoftheDead.jpg",
+      "PackagePath": "staticwebassets\\Images\\BookImage\\TheEgyptianBookoftheDead.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\BookImage\\TheEgyptianBookoftheDead2.jpg",
+      "PackagePath": "staticwebassets\\Images\\BookImage\\TheEgyptianBookoftheDead2.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\BookImage\\TheHereticQueen.jpg",
+      "PackagePath": "staticwebassets\\Images\\BookImage\\TheHereticQueen.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\BookImage\\TheMemoirsofCleopatra.jpg",
+      "PackagePath": "staticwebassets\\Images\\BookImage\\TheMemoirsofCleopatra.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\BookImage\\TheOxfordHistoryOfAncientEgypt.jpg",
+      "PackagePath": "staticwebassets\\Images\\BookImage\\TheOxfordHistoryOfAncientEgypt.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\BookImage\\TheRiseAndFallOfAncientEgypt.jpg",
+      "PackagePath": "staticwebassets\\Images\\BookImage\\TheRiseAndFallOfAncientEgypt.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\BookImage\\TheWomanWhoWouldBeKing.jpg",
+      "PackagePath": "staticwebassets\\Images\\BookImage\\TheWomanWhoWouldBeKing.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\Comments\\Djoser.jpg",
+      "PackagePath": "staticwebassets\\Images\\Comments\\Djoser.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\Dendarah Temple Of Hathor\\Dandarah Temple Of Hathor Entry.jpg",
+      "PackagePath": "staticwebassets\\Images\\Dendarah Temple Of Hathor\\Dandarah Temple Of Hathor Entry.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\Dendarah Temple Of Hathor\\Dandarah Temple Of Hathor Gate1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Dendarah Temple Of Hathor\\Dandarah Temple Of Hathor Gate1.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\Dendarah Temple Of Hathor\\Dandarah Temple Of Hathor Gate2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Dendarah Temple Of Hathor\\Dandarah Temple Of Hathor Gate2.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\Dendarah Temple Of Hathor\\Dandarah Temple Of Hathor Inside.jpg",
+      "PackagePath": "staticwebassets\\Images\\Dendarah Temple Of Hathor\\Dandarah Temple Of Hathor Inside.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\Dendarah Temple Of Hathor\\Dandarah Temple Of Hathor Outside.jpg",
+      "PackagePath": "staticwebassets\\Images\\Dendarah Temple Of Hathor\\Dandarah Temple Of Hathor Outside.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\Dendarah Temple Of Hathor\\Dandarah Temple Of Hathor Outside02.jpg",
+      "PackagePath": "staticwebassets\\Images\\Dendarah Temple Of Hathor\\Dandarah Temple Of Hathor Outside02.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\Dendarah Temple Of Hathor\\Dandarah Temple Of Hathor Outside03.jpg",
+      "PackagePath": "staticwebassets\\Images\\Dendarah Temple Of Hathor\\Dandarah Temple Of Hathor Outside03.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\Dendarah Temple Of Hathor\\Dandarah Temple Of Hathor Outside04.jpg",
+      "PackagePath": "staticwebassets\\Images\\Dendarah Temple Of Hathor\\Dandarah Temple Of Hathor Outside04.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\Dendarah Temple Of Hathor\\Dandarah Temple Of Hathor roof.jpg",
+      "PackagePath": "staticwebassets\\Images\\Dendarah Temple Of Hathor\\Dandarah Temple Of Hathor roof.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\DocumetriesImage\\Alexander.jpg",
+      "PackagePath": "staticwebassets\\Images\\DocumetriesImage\\Alexander.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\DocumetriesImage\\Amenhotep.jpg",
+      "PackagePath": "staticwebassets\\Images\\DocumetriesImage\\Amenhotep.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\DocumetriesImage\\Amenirdis.jpg",
+      "PackagePath": "staticwebassets\\Images\\DocumetriesImage\\Amenirdis.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\DocumetriesImage\\Ancient Egyptian Family Feud.jpg",
+      "PackagePath": "staticwebassets\\Images\\DocumetriesImage\\Ancient Egyptian Family Feud.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\DocumetriesImage\\Ancient Egyptian Secrets At The Monastery.jpg",
+      "PackagePath": "staticwebassets\\Images\\DocumetriesImage\\Ancient Egyptian Secrets At The Monastery.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\DocumetriesImage\\Ancient Oasis.jpg",
+      "PackagePath": "staticwebassets\\Images\\DocumetriesImage\\Ancient Oasis.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\DocumetriesImage\\CLEOPATRA.jpg",
+      "PackagePath": "staticwebassets\\Images\\DocumetriesImage\\CLEOPATRA.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\DocumetriesImage\\Cat Goddess.jpg",
+      "PackagePath": "staticwebassets\\Images\\DocumetriesImage\\Cat Goddess.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\DocumetriesImage\\Curse of the Mummy.jpg",
+      "PackagePath": "staticwebassets\\Images\\DocumetriesImage\\Curse of the Mummy.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\DocumetriesImage\\DISCOVER EGYPT.jpg",
+      "PackagePath": "staticwebassets\\Images\\DocumetriesImage\\DISCOVER EGYPT.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\DocumetriesImage\\Daughters Of Tutankhamun.jpg",
+      "PackagePath": "staticwebassets\\Images\\DocumetriesImage\\Daughters Of Tutankhamun.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\DocumetriesImage\\Did Ancient Egyptians Live At Pompeii.jpg",
+      "PackagePath": "staticwebassets\\Images\\DocumetriesImage\\Did Ancient Egyptians Live At Pompeii.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\DocumetriesImage\\Egypt Lost Wonders.jpg",
+      "PackagePath": "staticwebassets\\Images\\DocumetriesImage\\Egypt Lost Wonders.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\DocumetriesImage\\Egypt Through The Ages.jpg",
+      "PackagePath": "staticwebassets\\Images\\DocumetriesImage\\Egypt Through The Ages.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\DocumetriesImage\\Egypt's Ancient Empire.jpg",
+      "PackagePath": "staticwebassets\\Images\\DocumetriesImage\\Egypt's Ancient Empire.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\DocumetriesImage\\EgyptAndNubia.jpg",
+      "PackagePath": "staticwebassets\\Images\\DocumetriesImage\\EgyptAndNubia.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\DocumetriesImage\\Expedition Egypt.jpg",
+      "PackagePath": "staticwebassets\\Images\\DocumetriesImage\\Expedition Egypt.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\DocumetriesImage\\FallOfAlexandria.jpg",
+      "PackagePath": "staticwebassets\\Images\\DocumetriesImage\\FallOfAlexandria.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\DocumetriesImage\\Forgotten Treasures of EGYPT.jpg",
+      "PackagePath": "staticwebassets\\Images\\DocumetriesImage\\Forgotten Treasures of EGYPT.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\DocumetriesImage\\King Tut's Treasures.jpg",
+      "PackagePath": "staticwebassets\\Images\\DocumetriesImage\\King Tut's Treasures.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\DocumetriesImage\\Lost Queens.jpg",
+      "PackagePath": "staticwebassets\\Images\\DocumetriesImage\\Lost Queens.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\DocumetriesImage\\Lost Tomb of Alexander.jpg",
+      "PackagePath": "staticwebassets\\Images\\DocumetriesImage\\Lost Tomb of Alexander.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\DocumetriesImage\\Mummy Of Nefertiti.jpg",
+      "PackagePath": "staticwebassets\\Images\\DocumetriesImage\\Mummy Of Nefertiti.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\DocumetriesImage\\NEFERTARI.jpg",
+      "PackagePath": "staticwebassets\\Images\\DocumetriesImage\\NEFERTARI.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\DocumetriesImage\\Nefertiti's Daughters.jpg",
+      "PackagePath": "staticwebassets\\Images\\DocumetriesImage\\Nefertiti's Daughters.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\DocumetriesImage\\SecretsOfGiza.jpg",
+      "PackagePath": "staticwebassets\\Images\\DocumetriesImage\\SecretsOfGiza.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\DocumetriesImage\\Siwa.jpg",
+      "PackagePath": "staticwebassets\\Images\\DocumetriesImage\\Siwa.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\DocumetriesImage\\Sobekneferu.jpg",
+      "PackagePath": "staticwebassets\\Images\\DocumetriesImage\\Sobekneferu.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\DocumetriesImage\\Stolen From Egypt.jpg",
+      "PackagePath": "staticwebassets\\Images\\DocumetriesImage\\Stolen From Egypt.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\DocumetriesImage\\The Origins of Ancient Egypt.jpg",
+      "PackagePath": "staticwebassets\\Images\\DocumetriesImage\\The Origins of Ancient Egypt.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\DocumetriesImage\\TheGreatLifeOfRamses.jpg",
+      "PackagePath": "staticwebassets\\Images\\DocumetriesImage\\TheGreatLifeOfRamses.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\DocumetriesImage\\Tomb of Pharaoh Tutankhamun.jpg",
+      "PackagePath": "staticwebassets\\Images\\DocumetriesImage\\Tomb of Pharaoh Tutankhamun.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\DocumetriesImage\\Tutankhamun’s Great Grandparents.jpg",
+      "PackagePath": "staticwebassets\\Images\\DocumetriesImage\\Tutankhamun’s Great Grandparents.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\DocumetriesImage\\Vatican.jpg",
+      "PackagePath": "staticwebassets\\Images\\DocumetriesImage\\Vatican.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\DocumetriesImage\\What Caused The End Of The Pyramid Age.jpg",
+      "PackagePath": "staticwebassets\\Images\\DocumetriesImage\\What Caused The End Of The Pyramid Age.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\DocumetriesImage\\Why Did Ancient Egypt Eventually Fall.jpg",
+      "PackagePath": "staticwebassets\\Images\\DocumetriesImage\\Why Did Ancient Egypt Eventually Fall.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\Edfu\\Edfu.jpg",
+      "PackagePath": "staticwebassets\\Images\\Edfu\\Edfu.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\Edfu\\Edfu05.jpg",
+      "PackagePath": "staticwebassets\\Images\\Edfu\\Edfu05.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\Edfu\\EdfuEntry03.jpg",
+      "PackagePath": "staticwebassets\\Images\\Edfu\\EdfuEntry03.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\Edfu\\EdfuTunnel.jpg",
+      "PackagePath": "staticwebassets\\Images\\Edfu\\EdfuTunnel.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\Khafraa\\The Pyramids Khafraa.jpg",
+      "PackagePath": "staticwebassets\\Images\\Khafraa\\The Pyramids Khafraa.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\Khafraa\\The Pyramids Khafraa01.jpg",
+      "PackagePath": "staticwebassets\\Images\\Khafraa\\The Pyramids Khafraa01.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\Khafraa\\The Pyramids Khafraa02.jpg",
+      "PackagePath": "staticwebassets\\Images\\Khafraa\\The Pyramids Khafraa02.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\Khafraa\\The Pyramids Khafraa03.jpg",
+      "PackagePath": "staticwebassets\\Images\\Khafraa\\The Pyramids Khafraa03.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\Khufu.jpg",
+      "PackagePath": "staticwebassets\\Images\\Khufu.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\Khufu\\The Pyramids khufu.jpg",
+      "PackagePath": "staticwebassets\\Images\\Khufu\\The Pyramids khufu.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\Khufu\\The Pyramids khufu02.jpg",
+      "PackagePath": "staticwebassets\\Images\\Khufu\\The Pyramids khufu02.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\Khufu\\The Pyramids khufu03.jpg",
+      "PackagePath": "staticwebassets\\Images\\Khufu\\The Pyramids khufu03.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\Khufu\\The Pyramids khufu04.jpg",
+      "PackagePath": "staticwebassets\\Images\\Khufu\\The Pyramids khufu04.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\Menkaura\\The Pyramids Menkaure.jpg",
+      "PackagePath": "staticwebassets\\Images\\Menkaura\\The Pyramids Menkaure.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\Menkaura\\The Pyramids Menkaure01.jpg",
+      "PackagePath": "staticwebassets\\Images\\Menkaura\\The Pyramids Menkaure01.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\Menkaura\\The Pyramids Menkaure02.jpg",
+      "PackagePath": "staticwebassets\\Images\\Menkaura\\The Pyramids Menkaure02.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\ProfileImage\\IMG_20230319_115511_026.jpg",
+      "PackagePath": "staticwebassets\\Images\\ProfileImage\\IMG_20230319_115511_026.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\ProfileImage\\Jamal.jpg",
+      "PackagePath": "staticwebassets\\Images\\ProfileImage\\Jamal.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\Step Pyramid of Djoser\\AStep Pyramid of Djoser.png",
+      "PackagePath": "staticwebassets\\Images\\Step Pyramid of Djoser\\AStep Pyramid of Djoser.png"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\Step Pyramid of Djoser\\AStep Pyramid of Djoser02.png",
+      "PackagePath": "staticwebassets\\Images\\Step Pyramid of Djoser\\AStep Pyramid of Djoser02.png"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\Step Pyramid of Djoser\\AStep Pyramid of Djoser03.png",
+      "PackagePath": "staticwebassets\\Images\\Step Pyramid of Djoser\\AStep Pyramid of Djoser03.png"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\Step Pyramid of Djoser\\AStep Pyramid of Djoser04.png",
+      "PackagePath": "staticwebassets\\Images\\Step Pyramid of Djoser\\AStep Pyramid of Djoser04.png"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\Step Pyramid of Djoser\\AStep Pyramid of Djoser05.png",
+      "PackagePath": "staticwebassets\\Images\\Step Pyramid of Djoser\\AStep Pyramid of Djoser05.png"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\Temple Of Luxor\\Temple Of Luxor.jpg",
+      "PackagePath": "staticwebassets\\Images\\Temple Of Luxor\\Temple Of Luxor.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\Temple Of Luxor\\Temple Of Luxor02.jpg",
+      "PackagePath": "staticwebassets\\Images\\Temple Of Luxor\\Temple Of Luxor02.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\Temple Of Ramsis 3\\Temple Of Ramsis 3.jpg",
+      "PackagePath": "staticwebassets\\Images\\Temple Of Ramsis 3\\Temple Of Ramsis 3.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\The Temple of Nefertiti\\The Temple of Nefertiti01.jpg",
+      "PackagePath": "staticwebassets\\Images\\The Temple of Nefertiti\\The Temple of Nefertiti01.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\The Temple of Nefertiti\\The Temple of Nefertiti02.jpg",
+      "PackagePath": "staticwebassets\\Images\\The Temple of Nefertiti\\The Temple of Nefertiti02.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\The Temple of Nefertiti\\The Temple of Nefertiti03.jpg",
+      "PackagePath": "staticwebassets\\Images\\The Temple of Nefertiti\\The Temple of Nefertiti03.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\The Temple of Nefertiti\\The Temple of Nefertiti03left.jpg",
+      "PackagePath": "staticwebassets\\Images\\The Temple of Nefertiti\\The Temple of Nefertiti03left.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\The Temple of Nefertiti\\The Temple of Nefertiti03right.jpg",
+      "PackagePath": "staticwebassets\\Images\\The Temple of Nefertiti\\The Temple of Nefertiti03right.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\The Temple of Nefertiti\\The Temple of Nefertiti04.jpg",
+      "PackagePath": "staticwebassets\\Images\\The Temple of Nefertiti\\The Temple of Nefertiti04.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\The Temple of Nefertiti\\The Temple of Nefertiti04left.jpg",
+      "PackagePath": "staticwebassets\\Images\\The Temple of Nefertiti\\The Temple of Nefertiti04left.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Images\\The Temple of Nefertiti\\The Temple of Nefertiti04right.jpg",
+      "PackagePath": "staticwebassets\\Images\\The Temple of Nefertiti\\The Temple of Nefertiti04right.jpg"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Videos\\The Grandeur Of Ancient Egypt01.mp4",
+      "PackagePath": "staticwebassets\\Videos\\The Grandeur Of Ancient Egypt01.mp4"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\Videos\\The Grandeur Of Ancient Egypt02.mp4",
+      "PackagePath": "staticwebassets\\Videos\\The Grandeur Of Ancient Egypt02.mp4"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\audios\\Abu Simbel Temples.mp3",
+      "PackagePath": "staticwebassets\\audios\\Abu Simbel Temples.mp3"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\audios\\Khafre Pyramid.mp3",
+      "PackagePath": "staticwebassets\\audios\\Khafre Pyramid.mp3"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\audios\\Khufu Pyramid.mp3",
+      "PackagePath": "staticwebassets\\audios\\Khufu Pyramid.mp3"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\audios\\Menkaure Pyramid.mp3",
+      "PackagePath": "staticwebassets\\audios\\Menkaure Pyramid.mp3"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\audios\\Step Pyramid of Djoser.mp3",
+      "PackagePath": "staticwebassets\\audios\\Step Pyramid of Djoser.mp3"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\audios\\Temple of Edfu.mp3",
+      "PackagePath": "staticwebassets\\audios\\Temple of Edfu.mp3"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\audios\\Temple of Hathor.mp3",
+      "PackagePath": "staticwebassets\\audios\\Temple of Hathor.mp3"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\audios\\Temple of Luxor.mp3",
+      "PackagePath": "staticwebassets\\audios\\Temple of Luxor.mp3"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\audios\\Temple of Nefertari.mp3",
+      "PackagePath": "staticwebassets\\audios\\Temple of Nefertari.mp3"
+    },
+    {
+      "Id": "D:\\AncientAura\\AncientAura\\AncientAura.APIs\\wwwroot\\audios\\The Temple of Ramses III.mp3",
+      "PackagePath": "staticwebassets\\audios\\The Temple of Ramses III.mp3"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.AncientAura.APIs.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.build.AncientAura.APIs.props",
+      "PackagePath": "build\\AncientAura.APIs.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.buildMultiTargeting.AncientAura.APIs.props",
+      "PackagePath": "buildMultiTargeting\\AncientAura.APIs.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.buildTransitive.AncientAura.APIs.props",
+      "PackagePath": "buildTransitive\\AncientAura.APIs.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
